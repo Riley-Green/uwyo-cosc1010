@@ -3,7 +3,7 @@
 # Submission Date : 11/19/24
 # HW 05
 # Lab Section: Thursday 6:10 - 8
-# Sources, people worked with, help given to: Internet and book
+# Sources, people worked with, help given to: Internet (YouTube and Google) 
 # your
 # comments
 # here
